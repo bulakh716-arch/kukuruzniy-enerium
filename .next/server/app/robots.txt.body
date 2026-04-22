@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://enerium.app
+Sitemap: https://enerium.app/sitemap.xml

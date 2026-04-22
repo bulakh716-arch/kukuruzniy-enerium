@@ -1,0 +1,1 @@
+"use strict";exports.id=901,exports.ids=[901],exports.modules={7901:(e,s,t)=>{t.r(s),t.d(s,{default:()=>r});let r=(0,t(8570).createProxy)(String.raw`/Users/ss/Desktop/web-enerium-main/src/components/sections/EcosystemSection.tsx#default`)}};

@@ -1,0 +1,50 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Next dev server",
+			"type": "shell",
+			"command": "npm",
+			"args": [
+				"run",
+				"dev"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Next dev server (nvm)",
+			"type": "shell",
+			"command": "/Users/ss/.nvm/versions/node/v24.12.0/bin/npm",
+			"args": [
+				"run",
+				"dev"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Next dev server (node cli)",
+			"type": "shell",
+			"command": "/Users/ss/.nvm/versions/node/v24.12.0/bin/node",
+			"args": [
+				"/Users/ss/.nvm/versions/node/v24.12.0/lib/node_modules/npm/bin/npm-cli.js",
+				"run",
+				"dev"
+			],
+			"isBackground": true,
+			"group": "build"
+		},
+		{
+			"label": "Start Next dev direct",
+			"type": "shell",
+			"command": "/Users/ss/.nvm/versions/node/v24.12.0/bin/node",
+			"args": [
+				"./node_modules/next/dist/bin/next",
+				"dev"
+			],
+			"isBackground": true,
+			"group": "build"
+		}
+	]
+}

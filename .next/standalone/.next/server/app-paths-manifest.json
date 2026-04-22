@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/game/validate/route": "app/api/game/validate/route.js",
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/api/trial/activate/route": "app/api/trial/activate/route.js",
+  "/api/waitlist/route": "app/api/waitlist/route.js",
+  "/page": "app/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/terms/page": "app/terms/page.js",
+  "/apple-icon/route": "app/apple-icon/route.js",
+  "/contact/page": "app/contact/page.js",
+  "/about/page": "app/about/page.js",
+  "/privacy/page": "app/privacy/page.js",
+  "/twitter-image/route": "app/twitter-image/route.js",
+  "/icon/route": "app/icon/route.js",
+  "/opengraph-image/route": "app/opengraph-image/route.js"
+}
